@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Belja80")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Belja80.pretty")(options "")(descr ""))
+)
