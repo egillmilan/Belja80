@@ -538,8 +538,8 @@
       "idf": "",
       "netlist": "Belja80.net",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "Belja80.step",
+      "vrml": "Belja80.wrl"
     },
     "page_layout_descr_file": ""
   },
