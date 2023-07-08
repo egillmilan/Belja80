@@ -1,6 +1,6 @@
 # Belja80
  
-TKL keyboard based on the RP2040 microcontroller.
+TKL keyboard based on the RP2040 microcontroller. Compatible with ANSI and ISO layout.
 
 # Flashing instructions
 * Plug the keyboard into a computer and a drive named "RP2040" should appear. It might be necessary to hold down the boot button while plugging in the board for the drive to appear.
