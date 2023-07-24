@@ -1,6 +1,10 @@
 # Belja80
  
 TKL keyboard based on the RP2040 microcontroller. Compatible with ANSI and ISO layout.
+![78338884-2CD3-49FE-B128-DA2AC7E8922D](https://github.com/egillmilan/Belja80/assets/47427510/cf225241-fcc1-4281-a1d6-e38ac62e8995)
+![CA066DF3-226C-4CC9-AC3D-376DD7F449F3](https://github.com/egillmilan/Belja80/assets/47427510/a255aff4-72ce-4c58-a7a9-a3ddc469b0f0)
+![207D5793-591D-41C7-A5E0-8D16D3B497DB](https://github.com/egillmilan/Belja80/assets/47427510/e4c6f88b-ae04-4b1a-85b3-5e183c7b0045)
+
 
 # Flashing instructions
 * Plug the keyboard into a computer and a drive named "RP2040" should appear. It might be necessary to hold down the boot button while plugging in the board for the drive to appear.
